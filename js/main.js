@@ -1,5 +1,5 @@
 // Function to fetch image data and render the cards
-fetch('https://gossamer-dapper-secretary.glitch.me/images') // Ensure URL is correct for your server
+fetch('https://thrilling-square-glitter.glitch.me/images') // Ensure URL is correct for your server
   .then(response => {
     if (!response.ok) {
       throw new Error('Network response was not ok ' + response.statusText);
